@@ -18,6 +18,7 @@
     "url": "git@github.com:louischatriot/node-binary-search-tree.git"
   },
   "dependencies": {
+    "sorted-array": "^2.0.1",
     "underscore": "~1.4.4"
   },
   "devDependencies": {
